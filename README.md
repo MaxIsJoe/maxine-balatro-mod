@@ -1,6 +1,6 @@
 # Maxine's Joker Pack
 
-A mod that adds 10 new jokers to Balatro
+A mod that adds 10+ new jokers to Balatro
 
 
 | Card                                                                                                     | Name                  | Cost | Description                                                                                     | Rarity |
