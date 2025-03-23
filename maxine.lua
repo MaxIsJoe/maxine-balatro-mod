@@ -271,7 +271,7 @@ local jokers = {
 		loc_txt = {
 			name = "Insurance",
 			text = {
-				"Gain {C:chips}+3 hand size{} and {C:mult}+3 discards{} during a bloss blind,",
+				"Gain {C:chips}+3 hand size{} and {C:mult}+3 discards{} during a boss blind,",
 				"But lose a #1#% of your money [#2#]",
 			},
 		},
