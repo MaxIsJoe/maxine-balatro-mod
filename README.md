@@ -1,5 +1,6 @@
-# maxine-balatro-mod
-A mod that adds 10 new jokers to Balatro
+# Maxine's Joker Pack
+
+A mod that adds 10+ new jokers to Balatro
 
 
 | Card                                                                                                     | Name                  | Cost | Description                                                                                     | Rarity |
@@ -14,3 +15,4 @@ A mod that adds 10 new jokers to Balatro
 | ![](https://github.com/MaxIsJoe/maxine-balatro-mod/blob/main/git/pics/tile007.png)                       | The Politician        | 10   | Destroy the lowest ranked card in your hand, and create a golden king.                          | 3      |
 | ![](https://github.com/MaxIsJoe/maxine-balatro-mod/blob/main/git/pics/tile008.png)                       | The Joker In the Wall | 9    | Hey Kiddo..                                                                                     | 3      |
 | ![](https://github.com/MaxIsJoe/maxine-balatro-mod/blob/main/git/pics/tile009.png)                       | The Succubus          | 14   | Covert all the money you earn into mult. Lose all gained mult when skipping a booster or blind. | 4      |
+
